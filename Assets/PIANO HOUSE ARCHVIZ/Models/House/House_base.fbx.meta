@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 3792cd9d6fedff449a6612ff54b182a1
+timeCreated: 1521664845
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ground_inside
+    100002: ground_outside
+    100004: //RootNode
+    100006: roof_a
+    100008: roof_b
+    100010: Walls
+    100012: Glass_windows
+    100014: Window_Frames
+    100016: Ground_inside
+    100018: Ground_outside
+    100020: Roof_a
+    100022: Roof_b
+    100024: Water_Plane
+    100026: Outside__Wall
+    400000: ground_inside
+    400002: ground_outside
+    400004: //RootNode
+    400006: roof_a
+    400008: roof_b
+    400010: Walls
+    400012: Glass_windows
+    400014: Window_Frames
+    400016: Ground_inside
+    400018: Ground_outside
+    400020: Roof_a
+    400022: Roof_b
+    400024: Water_Plane
+    400026: Outside__Wall
+    2100000: Plaster_white_wall_a
+    2100002: Wood_Wall_a
+    2100004: black_marble_a
+    2100006: Plaster_white
+    2100008: concrete_roof
+    2100010: Wood_Wall_roof
+    2100012: Ground_floor_outside
+    2100014: Ground_Gravel
+    2100016: pool_tile_side
+    2100018: wood_floor_yard
+    2100020: Grass_Yard
+    2100022: pool_tile_bottom
+    2100024: Ground_floor_a
+    2100026: ilrOccSampler1
+    2100028: Translucent_Glass
+    2100030: Plaster_concrete_wall_a
+    2100032: Tile_white
+    2100034: Water_Plane_mia
+    2300000: ground_inside
+    2300002: ground_outside
+    2300004: roof_a
+    2300006: roof_b
+    2300008: Walls
+    2300010: Glass_windows
+    2300012: Window_Frames
+    2300014: Ground_inside
+    2300016: Ground_outside
+    2300018: Roof_a
+    2300020: Roof_b
+    2300022: Water_Plane
+    2300024: Outside__Wall
+    3300000: ground_inside
+    3300002: ground_outside
+    3300004: roof_a
+    3300006: roof_b
+    3300008: Walls
+    3300010: Glass_windows
+    3300012: Window_Frames
+    3300014: Ground_inside
+    3300016: Ground_outside
+    3300018: Roof_a
+    3300020: Roof_b
+    3300022: Water_Plane
+    3300024: Outside__Wall
+    4300000: Walls
+    4300002: roof_a
+    4300004: roof_b
+    4300006: ground_outside
+    4300008: ground_inside
+    4300010: Window_Frames
+    4300012: Glass_windows
+    4300014: Roof_a
+    4300016: Roof_b
+    4300018: Ground_outside
+    4300020: Ground_inside
+    4300022: Water_Plane
+    4300024: Outside__Wall
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_Yard
+    second: {fileID: 2100000, guid: 697133a4d8c324e43a124f2aadefe59b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground_Gravel
+    second: {fileID: 2100000, guid: ece8058b329d57641bf513ebc5a995b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground_floor_a
+    second: {fileID: 2100000, guid: d8d170cec310a3a4d9031b2dbca0d4af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground_floor_outside
+    second: {fileID: 2100000, guid: 9d265d81d55c14c45bca7198c6f06a83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster_concrete_wall_a
+    second: {fileID: 2100000, guid: 1269b3d436ebbc747848c5c749f78607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster_white
+    second: {fileID: 2100000, guid: f43cb719d123714448881e757e31d1b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster_white_wall_a
+    second: {fileID: 2100000, guid: 7de1a59e62b0d9e4cb54715297227367, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tile_white
+    second: {fileID: 2100000, guid: 5a6b37d726057954d873cccb70fcdc2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water_Plane_mia
+    second: {fileID: 2100000, guid: 5e905159cd83b1f4a8529d544c303291, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Wall_a
+    second: {fileID: 2100000, guid: e0a19234e6a1825419b26ec075e53540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Wall_roof
+    second: {fileID: 2100000, guid: cd3377f3b9a474a4db146e7fb25a8068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_marble_a
+    second: {fileID: 2100000, guid: 91415bd06f1a07241a73dba137759256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete_roof
+    second: {fileID: 2100000, guid: 130b4876dac8e794ba0bf3de566a4193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pool_tile_bottom
+    second: {fileID: 2100000, guid: 6e7759f88f6345943b20bb29a83b3ecf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pool_tile_side
+    second: {fileID: 2100000, guid: 390c50bd0fb77af4892e0773be46450d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_floor_yard
+    second: {fileID: 2100000, guid: fb6a329c030cf0648bcfb5016f94ea75, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

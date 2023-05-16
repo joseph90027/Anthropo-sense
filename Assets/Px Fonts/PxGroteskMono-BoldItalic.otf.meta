@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: b9b135e2616024f4b932448453dfe809
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Px Grotesk Mono
+  fontNames:
+  - Px Grotesk Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74e092c72f59d5449af5be2213648ecd, type: 3}
+  - {fileID: 12800000, guid: 002176acd371fd041b66b4549855af6b, type: 3}
+  - {fileID: 12800000, guid: 1031e8efc624630468fb804ebd6c20ff, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

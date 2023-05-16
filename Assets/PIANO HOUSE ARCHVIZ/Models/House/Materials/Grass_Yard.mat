@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Grass_Yard
+  m_Shader: {fileID: 4800000, guid: 55a05326eaebbe44587af0ee0d0eeb91, type: 3}
+  m_ShaderKeywords: _METALLICGLOSSMAP _SPECGLOSSMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _B_AO:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _B_Metalic:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _B_NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _B_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 8, y: 8}
+        m_Offset: {x: 0, y: 0}
+    - _G_AO:
+        m_Texture: {fileID: 2800000, guid: 81efaef91cb244d49857e09785a39033, type: 3}
+        m_Scale: {x: 16, y: 16}
+        m_Offset: {x: 0, y: 0}
+    - _G_Albedo:
+        m_Texture: {fileID: 2800000, guid: d90dc66eeb4c8e34cb6880023d17fcb1, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0.5, y: 0.5}
+    - _G_Metalic:
+        m_Texture: {fileID: 2800000, guid: 71b41cb209fef9945a8c7373d7bfc676, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0.5, y: 0.5}
+    - _G_NormalMap:
+        m_Texture: {fileID: 2800000, guid: 1d88cf9a58351a44ca3a15416665090a, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0.5, y: 0.5}
+    - _G_Occlusion:
+        m_Texture: {fileID: 2800000, guid: 94ae47b8dcb8e2c419438a8df9131966, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0.5, y: 0.5}
+    - _G_Tex:
+        m_Texture: {fileID: 2800000, guid: ad946e72f71d68947867a3036dbadc70, type: 3}
+        m_Scale: {x: 16, y: 16}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: d90dc66eeb4c8e34cb6880023d17fcb1, type: 3}
+        m_Scale: {x: 8, y: 8}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTexture:
+        m_Texture: {fileID: 2800000, guid: 09f73059fd894324b92a5260d112447b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_Tex:
+        m_Texture: {fileID: 2800000, guid: 09f73059fd894324b92a5260d112447b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 2800000, guid: 43e29a1dbfa412e4cb8838e78dfdf5ff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 2800000, guid: 7b4ea0782a9013b4b8652ed2f862ae65, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _R_AO:
+        m_Texture: {fileID: 2800000, guid: 81efaef91cb244d49857e09785a39033, type: 3}
+        m_Scale: {x: 6, y: 6}
+        m_Offset: {x: 0, y: 0}
+    - _R_Albedo:
+        m_Texture: {fileID: 2800000, guid: ad946e72f71d68947867a3036dbadc70, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _R_Metalic:
+        m_Texture: {fileID: 2800000, guid: 71b41cb209fef9945a8c7373d7bfc676, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _R_NormalMap:
+        m_Texture: {fileID: 2800000, guid: 1d88cf9a58351a44ca3a15416665090a, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _R_Occlusion:
+        m_Texture: {fileID: 2800000, guid: 94ae47b8dcb8e2c419438a8df9131966, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _R_Tex:
+        m_Texture: {fileID: 2800000, guid: d90dc66eeb4c8e34cb6880023d17fcb1, type: 3}
+        m_Scale: {x: 6, y: 6}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 2800000, guid: 43e29a1dbfa412e4cb8838e78dfdf5ff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _B_AOIntensity: 0
+    - _B_NormalmapIntensity: 0
+    - _B_Smoothness: 0
+    - _B_metalic_intensity: 1
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _G_AOIntensity: 0.2
+    - _G_MetalicIntensity: 0.7
+    - _G_NormalIntensity: 1.2
+    - _G_NormalmapIntensity: 1
+    - _G_OcclusionIntensity: 0.8
+    - _G_Smoothness: 0
+    - _G_SmoothnessIntensity: 0.7
+    - _G_metalic_intensity: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 0.173
+    - _Parallax: 0.02
+    - _R_AOIntensity: 0.2
+    - _R_MetalicIntensity: 0.7
+    - _R_NormalIntensity: 1.2
+    - _R_NormalmapIntensity: 1
+    - _R_OcclusionIntensity: 0.8
+    - _R_Smoothness: 0
+    - _R_SmoothnessIntensity: 0.7
+    - _R_metalic_intensity: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _Color: {r: 0.97794116, g: 1, b: 0.98630834, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _G_AlbedoColor: {r: 1, g: 1, b: 1, a: 0}
+    - _R_AlbedoColor: {r: 1, g: 1, b: 1, a: 0}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
